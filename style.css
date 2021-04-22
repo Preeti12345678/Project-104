@@ -1,0 +1,19 @@
+#heading{
+    font-weight: bold;
+}
+body{
+    background: linear-gradient(#1bc44e , #8ee882);
+    color: white;
+
+}
+.snapshot_btn, .check_btn{
+    color: black;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed white
+}
+.people{
+    border: 2px solid white;
+}
